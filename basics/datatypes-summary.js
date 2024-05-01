@@ -32,4 +32,7 @@ const arr = ["one", "two", "three"];
 }
 
 
+// stack & heap
+
+// stack(primitive), heap(non-primitive
 
